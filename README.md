@@ -1,3 +1,5 @@
+# Exercício 2
+
 Escreva um código onde controlamos as funções de um carro, ele deve ter as seguintes funções:
 - Ligar o carro;
 - Desligar o carro;
@@ -7,7 +9,7 @@ Escreva um código onde controlamos as funções de um carro, ele deve ter as se
 - verificar velocidade;
 - trocar a marcha
 
-Siga as seguintes regras na implementação
+## Siga as seguintes regras na implementação
 - Quando o carro for criado ele deve começar desligado, em ponto morto e com sua velocidade em 0
 - O carro desligado não pode realizar nenhuma função;
 - Quando o carro for acelerado ele deve incrementar 1km em sua velocidade (pode chegar no máximo a 120km);
